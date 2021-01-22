@@ -1,0 +1,18 @@
+This script can change system files. Be sure to have a backup of the following file
+
+--------------------------------------------
+file :- hosts in directory of 
+C:\Windows\System32\drivers\etc\
+--------------------------------------------
+
+steps to backup --
+1. No automatic backup right now due to problems regarding some problematic errors. Will be solved in few days
+2. Copy all contents of hosts file to default-1 and hosts_temp file
+
+
+Next target 
+-----------
+1. to increase reliabilty of backup function of hosts file
+2. Reducing the danger imposed from changing contents of hosts file
+3. GUI option
+4. To implement schedule function

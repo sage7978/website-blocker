@@ -1,0 +1,1 @@
+python.exe "C:\Users\patra\Documents\projects 2021\blocker\script.py"
